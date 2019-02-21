@@ -1,0 +1,23 @@
+{
+  "name": "biebaba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlsou/biebaba.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlsou/biebaba/issues"
+  },
+  "homepage": "https://github.com/jlsou/biebaba#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
